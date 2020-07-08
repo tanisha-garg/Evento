@@ -145,15 +145,15 @@ body{
    text-decoration: none;
 }
 .modal-header {
-   background: black;
-   color: floralwhite;
-}
+    background: #464646;
+    color: floralwhite;
+ }
 .modal-header .close {
-     color: floralwhite;
-}
- 
- .modal-body {
-   background: #D1C4E9; 
+      color: floralwhite;
+ }
+  
+  .modal-body {
+    background: #f4f4f4; 
 }
 .register-heading{
     font-family: 'Montserrat', sans-serif;
